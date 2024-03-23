@@ -2,7 +2,7 @@
 <p><em>Software Enginner and Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer for <a href="https://discord.js.org">Discord</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub Witchbl4des?](https://img.shields.io/github/followers/apoolww?label=follow&style=social)](https://github.com/apoolww)
+[![GitHub Witchbl4des?](https://img.shields.io/github/followers/apoolww?label=follow&style=social)]()
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
