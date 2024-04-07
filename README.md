@@ -10,8 +10,8 @@
 ```javascript
 const Witchbl4des = {
   pronouns: "hi" | "him",
-  age: "17",
-  languages: [Javascript, Typescript, Python, React, C],
+  age: "18",
+  languages: [Javascript, Typescript, Python, React, C, NextJS, RUST],
   tools: [Node, Docker, Postman, Firebase, MongoDB, IntelliJ IDEA, git],
   operating_systems: ["Windows", "linux: {
                                     "debian", "centOs"
@@ -20,7 +20,7 @@ const Witchbl4des = {
                         owner: "sweden",
                         admin: "./devfr"
                       },
- project: ""
+ project: "c1pherkey"
 }
 ```
 <br/><br/>
