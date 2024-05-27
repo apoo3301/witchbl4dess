@@ -11,7 +11,7 @@
 const Witchbl4des = {
   pronouns: "hi" | "him",
   age: "18",
-  languages: [Javascript, Typescript, Python, React, C, NextJS, RUST],
+  languages: [Javascript, Typescript, Python, C, NextJS, RUST],
   tools: [Node, Docker, Postman, Firebase, MongoDB, IntelliJ IDEA, git],
   operating_systems: ["Windows", "linux: {
                                     "debian", "centOs"
