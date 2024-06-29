@@ -1,5 +1,5 @@
 <h2> Hi, I'm apoo3301 ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner and Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer for <a href="https://discord.js.org">Discord</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer for <a href="https://discord.js.org">Discord</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub Witchbl4des?](https://img.shields.io/github/followers/apoolww?label=follow&style=social)]()
@@ -12,15 +12,11 @@ const Witchbl4des = {
   pronouns: "hi" | "him",
   age: "18",
   languages: [Javascript, Typescript, Python, C, RUST],
-  other: [Node, Docker, Postman, Firebase, MongoDB, IntelliJ IDEA, .NET, MySQL, NextJS, VUE, git],
+  software: [Postman, DataGrip, Visual Studio, Docker],
+  other: [NodeJS, Firebase, MongoDB, .NET, MySQL, NextJS, VUE, git],
   operating_systems: ["Windows", "linux: {
-                                    "debian", "centOs"
+                                    "debian", "fedora"
   }],
-  techCommunities: {
-                        owner: "sweden",
-                        admin: "./devfr"
-                      },
- project: "c1pherkey"
 }
 ```
 <br/><br/>
